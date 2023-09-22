@@ -314,9 +314,6 @@
         padding: 30px 30px;
     }
 }
-#body-wrapper > div.Base__root--Jmi38 > div:nth-child(5) > div > div.Block__ui_position_relative--g2Tox.Block__ui_overflow_hidden--rXboz.Block__ui_transition--kAVxM > div.Block__ui_position_absolute--Vv6IK.Block__ui_place_bottom--UpdHo.Block__ui_padding-top_s--yjxcw {
-
-position: relative;
-z-index: 100;
-
+.Block__ui_padding-top_s--yjxcw {
+    z-index: 100;
 }
