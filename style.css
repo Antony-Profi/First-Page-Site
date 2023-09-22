@@ -314,6 +314,10 @@
     #repair_hydraulic_cylinders .s4 {
         padding: 30px 30px;
     }
+    #repair_hydraulic_cylinders .s3 > .centered .title::after {
+    height: 10px;
+    width: 20px;
+    }
 }
 .Block__ui_padding-top_s--yjxcw {
     z-index: 100;
