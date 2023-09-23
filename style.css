@@ -272,16 +272,16 @@
         max-width: 100%;
     }
     #repair_hydraulic_cylinders:first-child .title {
-        width: 90%;
-        max-width: none;
+        width: 150%;
+        max-width: fit-content;
 }
-    #repair_hydraulic_cylinders:first-child .s2 ul li {
-        width: 90%;
-        max-width: none;
+    #repair_hydraulic_cylinders:first-child .s2 > ul > li {
+        width: 150%;
+        max-width: fit-content;
 }
-    #repair_hydraulic_cylinders:first-child .s3 .text_centered {
-        width: 90%;
-        max-width: none;
+    #repair_hydraulic_cylinders .s4 > .super-text > ol > ul > li {
+        width: 150%;
+        max-width: fit-content;
     }
 
     #repair_hydraulic_cylinders .s1::after {
