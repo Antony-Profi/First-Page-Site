@@ -266,7 +266,7 @@
     }
 }
 
-@media screen and (max-width: 550px){
+@media screen and (max-width: 550px) {
     #repair_hydraulic_cylinders .s1 {
         padding: 30px 11px;
         max-width: 100%;
@@ -319,12 +319,13 @@
         max-width: 75%;
     }
 
-    #repair_hydraulic_cylinders .s4 {
-        padding: 30px 15px;
-    }
     #repair_hydraulic_cylinders .s3 > .centered .title::after {
     height: 14px;
     width: 23px;
+    }
+
+    #repair_hydraulic_cylinders .s4 {
+        padding: 30px 15px;
     }
 }
 .Block__ui_padding-top_s--yjxcw {
