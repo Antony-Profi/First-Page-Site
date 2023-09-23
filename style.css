@@ -271,20 +271,6 @@
         padding: 30px 11px;
         max-width: 100%;
     }
-    #repair_hydraulic_cylinders s1 > .title {
-        width: 150%;
-        max-width: fit-content;
-}
-    #repair_hydraulic_cylinders s2 > .title {
-        width: 97%;
-}
-    #repair_hydraulic_cylinders .s2 > ul {
-        width: 97%;
-}
-    #repair_hydraulic_cylinders .s4 > .super-text > ol > ul > li {
-        width: 150%;
-        max-width: fit-content;
-    }
 
     #repair_hydraulic_cylinders .s1::after {
         left: -15px;
@@ -304,9 +290,11 @@
         max-width: 100%;
         height: auto;
     }
-
-    #repair_hydraulic_cylinders .s2 {
-        padding: 30px 20px;
+    #repair_hydraulic_cylinders .s2 > title {
+    padding: 30px 20px;
+}
+    #repair_hydraulic_cylinders .s2 > ul {
+        padding: 30px 27px;
     }
     
     #repair_hydraulic_cylinders .s3 {
