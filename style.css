@@ -308,6 +308,10 @@
     #repair_hydraulic_cylinders .s2 {
         padding: 30px 20px;
     }
+    
+    #repair_hydraulic_cylinders .s3 {
+        padding: 30px 20px;
+    }
 
     #repair_hydraulic_cylinders .s3 > .centered img {
         max-width: 85%;
