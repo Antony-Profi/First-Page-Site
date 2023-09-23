@@ -294,7 +294,7 @@
     padding: 30px 20px;
 }
     #repair_hydraulic_cylinders .s2 > ul {
-        padding: 30px 27px;
+        width: 100%;
     }
     
     #repair_hydraulic_cylinders .s3 {
