@@ -290,9 +290,11 @@
         max-width: 100%;
         height: auto;
     }
-    #repair_hydraulic_cylinders .s2 > title {
-    padding: 30px 20px;
-}
+    
+    #repair_hydraulic_cylinders .s2 {
+    padding: 30px 37px;
+    }
+    
     #repair_hydraulic_cylinders .s2 > ul {
         width: 100%;
     }
