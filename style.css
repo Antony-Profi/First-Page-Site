@@ -158,28 +158,28 @@
 }
 
 #repair_hydraulic_cylinders .s3 > .centered img {
-    max-width: 40%;
+    max-width: 58%;
     height: auto;
     display: block;
     margin: 0 auto;
 }
 
 #repair_hydraulic_cylinders .s3 > .picture-steering-rack img {
-    max-width: 40%;
+    max-width: 58%;
     height: auto;
     display: block;
     margin: 0 auto;
 }
 
 #repair_hydraulic_cylinders .s3 > .lazy-loaded img {
-    max-width: 40%;
+    max-width: 58%;
     height: auto;
     display: block;
     margin: 0 auto;
 }
 
 #repair_hydraulic_cylinders .s3 video {
-    max-width: 30%;
+    max-width: 48%;
     height: auto;
     display: block;
     margin: 0 auto;
