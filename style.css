@@ -107,6 +107,7 @@
     content: url("https://antony-profi.github.io/First-Page-Site/shesternya.png");
     vertical-align: middle;
     margin-right: 10px;
+    float: initial;
 }
 
 #repair_hydraulic_cylinders .centered {
