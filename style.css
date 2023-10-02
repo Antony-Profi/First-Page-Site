@@ -414,6 +414,24 @@
     #repair_hydraulic_cylinders .s4 {
         padding: 30px 15px;
     }
+
+    #repair_hydraulic_cylinders .s5 .contacts {
+        background: #f1f1f1;
+        display: flex;
+        gap: 15px;
+        margin: 70px auto;
+        width: 88%;
+        height: 200px;
+        padding: 15px 20px;
+        flex-direction: column;
+    }
+
+    #repair_hydraulic_cylinders .s5 .contacts_list {
+        display: flex;
+        gap: 15px;
+        justify-content: space-between;
+        flex-direction: column;
+    }
 }
 .Block__ui_padding-top_s--yjxcw {
     z-index: 100;
