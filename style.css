@@ -371,7 +371,7 @@
     }
     
     #repair_hydraulic_cylinders .s2 {
-    padding: 30px 20px;
+        padding: 30px 20px;
     }
     
     #repair_hydraulic_cylinders .s2 > ul {
@@ -403,12 +403,12 @@
     }
 
     #repair_hydraulic_cylinders .s3 video {
-        max-width: 75%;
+        max-width: 85%;
     }
 
     #repair_hydraulic_cylinders .s3 > .centered .title::after {
-    height: 14px;
-    width: 23px;
+        height: 14px;
+        width: 23px;
     }
 
     #repair_hydraulic_cylinders .s4 {
