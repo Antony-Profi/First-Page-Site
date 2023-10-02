@@ -440,6 +440,13 @@
     #repair_hydraulic_cylinders .s5 h3 {
         padding-left: 18px;
     }
+
+    #repair_hydraulic_cylinders .s5 > table {
+        margin: 0px auto;
+        width: 90%;
+        border: 1px solid black;
+        border-collapse: collapse;
+    }
 }
 .Block__ui_padding-top_s--yjxcw {
     z-index: 100;
