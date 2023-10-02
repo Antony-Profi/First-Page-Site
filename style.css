@@ -124,6 +124,10 @@
     width: fit-content;
 }
 
+#repair_hydraulic_cylinders .center_title {
+    text-align: center;
+}
+
 #repair_hydraulic_cylinders .text_centered li::before{
     content: url("https://antony-profi.github.io/First-Page-Site/11.png");
     vertical-align: middle;
