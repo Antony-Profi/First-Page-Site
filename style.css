@@ -271,14 +271,13 @@
     display: flex;
     gap: 15px;
     margin: 70px auto;
-    width: 88%;
-    height: 200px;
+    width: 86%;
     padding: 15px 20px;
 }
 
 #repair_hydraulic_cylinders .s5 .contacts_list {
     display: flex;
-    gap: 180px;
+    gap: 60px;
     justify-content: space-between;
 }
 
@@ -293,7 +292,7 @@
 }
 
 #repair_hydraulic_cylinders .s5 h3 {
-    padding-left: 68px;
+    padding-left: 57px;
 }
 
 @media screen and (max-width: 800px){
