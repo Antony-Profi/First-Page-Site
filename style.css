@@ -442,10 +442,8 @@
     }
 
     #repair_hydraulic_cylinders .s5 > table {
-        margin: 0px auto;
-        width: 90%;
-        border: 1px solid black;
-        border-collapse: collapse;
+        table-layout: initial;
+        width: 100% !important;
     }
 }
 .Block__ui_padding-top_s--yjxcw {
