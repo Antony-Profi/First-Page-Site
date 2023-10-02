@@ -180,6 +180,14 @@
     margin: 0 auto;
 }
 
+#repair_hydraulic_cylinders .s3 > .lazy-loaded .title:first-child {
+    position: relative;
+    width: 90%;
+    border-bottom: 1px solid silver;
+    margin: 30px auto;
+    padding-bottom: 10px;
+}
+
 #repair_hydraulic_cylinders .s3 video {
     max-width: 58%;
     height: auto;
