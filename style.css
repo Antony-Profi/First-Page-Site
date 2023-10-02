@@ -432,6 +432,11 @@
         justify-content: space-between;
         flex-direction: column;
     }
+
+    #repair_hydraulic_cylinders .s5 .contacts img {
+        width: 25%;
+        object-fit: contain;
+    }
 }
 .Block__ui_padding-top_s--yjxcw {
     z-index: 100;
