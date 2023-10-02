@@ -218,6 +218,71 @@
     margin-top: 40px;
 }
 
+#repair_hydraulic_cylinders .s5 {
+    background: #cccccc;
+    padding: 30px 0;
+}
+
+#repair_hydraulic_cylinders .s5 > .title {
+    margin: 30px auto;
+    text-align: center;
+}
+
+#repair_hydraulic_cylinders .s5 > table {
+    margin: 0px auto;
+    width: 90%;
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+#repair_hydraulic_cylinders .s5 .table_product {
+    border: 1px solid white;
+    padding: 10px 15px;
+    background: #f1f1f1;
+    width: 70%;
+}
+
+#repair_hydraulic_cylinders .s5 .table_price {
+    border: 1px solid white;
+    background: #f1f1f1;
+    padding: 10px 15px;
+}
+
+#repair_hydraulic_cylinders .s5 th {
+    background: #FFA500 !important;
+    text-align: left;
+}
+
+#repair_hydraulic_cylinders .s5 .contacts {
+    background: #f1f1f1;
+    display: flex;
+    gap: 15px;
+    margin: 70px auto;
+    width: 88%;
+    height: 200px;
+    padding: 15px 20px;
+}
+
+#repair_hydraulic_cylinders .s5 .contacts_list {
+    display: flex;
+    gap: 180px;
+    justify-content: space-between;
+}
+
+#repair_hydraulic_cylinders .s5 .contacts img {
+    width: 19%;
+    object-fit: contain;
+}
+
+#repair_hydraulic_cylinders .s5 .contacts_list p {
+    color: #FFA500;
+    font-size: 21px;
+}
+
+#repair_hydraulic_cylinders .s5 h3 {
+    padding-left: 68px;
+}
+
 @media screen and (max-width: 800px){
     #repair_hydraulic_cylinders .s1 {
         padding: 30px 60px;
