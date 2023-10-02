@@ -437,6 +437,10 @@
         width: 25%;
         object-fit: contain;
     }
+
+    #repair_hydraulic_cylinders .s5 h3 {
+        padding-left: 18px;
+    }
 }
 .Block__ui_padding-top_s--yjxcw {
     z-index: 100;
