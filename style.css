@@ -336,11 +336,19 @@
     }
 
     #repair_hydraulic_cylinders .s3 video {
-        max-width: 60%;
+        max-width: 70%;
     }
 
     #repair_hydraulic_cylinders .s4 {
         padding: 30px 60px;
+    }
+
+    #repair_hydraulic_cylinders .s5 .contacts {
+    display: flex;
+    gap: 15px;
+    margin: 70px auto;
+    padding: 15px 20px;
+    flex-direction: column;
     }
 }
 
