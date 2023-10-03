@@ -443,7 +443,7 @@
 
     #repair_hydraulic_cylinders .s5 > table {
         table-layout: initial;
-        width: 100% !important;
+        width: 99% !important;
     }
 }
 .Block__ui_padding-top_s--yjxcw {
